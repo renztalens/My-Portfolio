@@ -12,10 +12,10 @@ const projectDetails = {
     tech: "Tech Stack: Networking, Hardware, Firewall",
   },
   upcoming: {
-    title: "Upcoming Project",
+    title: "Under Development",
     description:
-      "A cloud/DevOps-focused project in progress involving automation, deployment workflows, and scalable infrastructure concepts.",
-    tech: "Tech Stack: Cloud, CI/CD, Automation",
+      "Nexcrypt is a Java-based secure communication system that simulates a lightweight VPN-like environment using client-server architecture. The project focuses on encrypted data transmission, user authentication, and multi-client communication through a clean ASCII-based CLI interface.
+    tech: "Java, Sockets, JDBC, MySQL, AES Encryption",
   },
 };
 
